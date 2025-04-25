@@ -18,6 +18,8 @@ const (
 	maxRetries = 4
 )
 
+//Disclaimer : I do not know Springboot but have a basic knowledge of Java. So continuing the assignment in go which is my primary preferred language.
+
 func main() {
 	log.Println("Application starting...")
 
